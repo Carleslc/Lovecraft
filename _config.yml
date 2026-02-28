@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+lang: es
+title: Lovecraft
+description: Relatos de horror cósmico clásicos y actuales. Relatos generados con inteligencia artificial, manteniendo el estilo y formato de H.P. Lovecraft.
+
+author:
+  name: Carlos Lázaro Costa
+  url: https://carleslc.me

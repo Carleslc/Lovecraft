@@ -1,0 +1,57 @@
+Teniendo en cuenta la información disponible en el Vocabulario Lovecraftiano y los diferentes cuentos de Lovecraft:
+
+.
+├── AI/
+├── Clásicos
+│   ├── 1. Dagón.pdf
+│   ├── 2. Las ratas en las paredes.pdf
+│   ├── 3. El modelo de Pickman.pdf
+│   ├── 4. El color que cayó del cielo.pdf
+│   ├── 5. La ciudad sin nombre.pdf
+│   ├── 6. La sombra sobre Innsmouth.pdf
+│   ├── 7. La llamada de Cthulhu.pdf
+│   ├── 8. El Horror de Dunwich.pdf
+│   ├── 9. En las montañas de la locura.pdf
+│   ├── 10. El Ceremonial.pdf
+│   ├── 11. El ser en el umbral.pdf
+│   ├── 12. El susurrador en la oscuridad.pdf
+│   ├── 13. Los sueños en la casa de la bruja.pdf
+│   ├── 14. El Horror de Red Hook.pdf
+│   ├── 15. En la noche de los tiempos.pdf
+│   ├── 16. El caso de Charles Dexter Ward.epub
+│   ├── 17. El vampiro estelar.pdf
+│   ├── 18. Los perros de Tíndalos.pdf
+│   ├── 19. El Wendigo.pdf
+│   ├── 20. La piedra negra.pdf
+│   ├── 21. El rey de amarillo.pdf
+│   ├── 22. El horror que nos acecha.pdf
+│   ├── Algunas notas sobre algo que no existe (Autobiografía H.P. Lovecraft).pdf
+│   ├── El horror sobrenatural en la literatura.pdf
+│   ├── H.P. Lovecraft y otros - Los mitos de Cthulhu.pdf
+│   ├── Otros relatos.pdf
+│   └── README.md
+├── build.sh
+├── README.md
+└── Vocabulario Lovecraftiano.pdf
+
+Piensa varias propuestas de relatos y escribe 5 nuevos relatos cortos originales en español, cada uno diferente,
+con el mismo estilo de escritura de Lovecraft y formato que sus relatos originales, encajándolo en su ambientación y universo narrativo,
+con algunas conexiones con otros de sus cuentos (personajes, criaturas, historias relacionadas, fechas, u otras referencias que consideres adecuadas).
+
+Crea un relato breve para leer rápido (~1000 palabras, 2 páginas), otro también breve (~2000 palabras, 4-5 páginas),
+uno corto (~4000 palabras, 10 páginas), otro más largo (10000-15000 palabras, 20-30 páginas)
+y el resto según la media de los relatos originales de Lovecraft (suelen tener 10-20 páginas y unas 7000-12000 palabras).
+
+Sigue el estilo de creación que indica el propio Lovecraft sobre sus ideas y método para escribir cuentos
+en el apéndice del Vocabulario Lovecraftiano, adaptado a la creación moderna digital.
+
+Publica los cuentos en la carpeta "AI". Crea una subcarpeta para cada relato con el título del relato.
+Para cada relato crea también un documento "título - Notas.md" que puedes ir editando con tus pensamientos
+y proceso de desarrollo según el método de escribir cuentos y las razones o ideas que has tenido
+y qué tipo de referencias a otros libros o historias has decidido incluir o si es completamente original.
+
+El fichero resultante del relato debe renombrarse como "README.md"
+El autor está ya incluido al convertir los archivos (PDF: header.tex, EPUB: metadatos build.sh),
+así que no lo incluyas en el markdown del relato para evitar duplicados.
+
+Convierte todos los relatos a PDF, EPUB y HTML usando el script build.sh

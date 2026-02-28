@@ -1,0 +1,5 @@
+# Logs (e.g. missfont.log)
+*.log
+
+# System files
+.DS_Store
