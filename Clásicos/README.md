@@ -2,16 +2,50 @@
 
 Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del círculo de los Mitos de Cthulhu, gratis para leer y descargar.
 
-[**Cronología**](#cronología)
+Puedes ver todos los relatos más abajo en [Compendios](#compendios) y en [Cronología](#cronología).
 
-## Relatos cortos
+### Recomendados
+
+Esta lista muestra los relatos clásicos más relevantes por orden recomendado de lectura.
+
+#### H.P. Lovecraft
+
+- **Dagón** ([PDF](1.%20Dago%CC%81n.pdf))
+- **Las ratas en las paredes** ([PDF](2.%20Las%20ratas%20en%20las%20paredes.pdf))
+- **El modelo de Pickman** ([PDF](3.%20El%20modelo%20de%20Pickman.pdf))
+- **El color que cayó del cielo** ([PDF](4.%20El%20color%20que%20cayo%CC%81%20del%20cielo.pdf))
+- **La ciudad sin nombre** ([PDF](5.%20La%20ciudad%20sin%20nombre.pdf))
+- **La sombra sobre Innsmouth** ([PDF](6.%20La%20sombra%20sobre%20Innsmouth.pdf))
+- **La llamada de Cthulhu** ([PDF](7.%20La%20llamada%20de%20Cthulhu.pdf))
+- **El Horror de Dunwich** ([PDF](8.%20El%20Horror%20de%20Dunwich.pdf))
+- **En las montañas de la locura** ([PDF](9.%20En%20las%20montan%CC%83as%20de%20la%20locura.pdf))
+- **El Ceremonial** ([PDF](10.%20El%20Ceremonial.pdf))
+- **El ser en el umbral** ([PDF](11.%20El%20ser%20en%20el%20umbral.pdf))
+- **El susurrador en la oscuridad** ([PDF](12.%20El%20susurrador%20en%20la%20oscuridad.pdf))
+- **Los sueños en la casa de la bruja** ([PDF](13.%20Los%20suen%CC%83os%20en%20la%20casa%20de%20la%20bruja.pdf))
+- **El Horror de Red Hook** ([PDF](14.%20El%20Horror%20de%20Red%20Hook.pdf))
+- **En la noche de los tiempos** ([PDF](15.%20En%20la%20noche%20de%20los%20tiempos.pdf))
+- **El caso de Charles Dexter Ward** ([EPUB](16.%20El%20caso%20de%20Charles%20Dexter%20Ward.epub))
+
+#### Otros autores
+
+- **El vampiro estelar** (Robert Bloch) ([PDF](17.%20El%20vampiro%20estelar.pdf))
+- **Los perros de Tíndalos** (Frank Belknap Long) ([PDF](18.%20Los%20perros%20de%20Ti%CC%81ndalos.pdf))
+- **El Wendigo** (Algernon Blackwood) ([PDF](19.%20El%20Wendigo.pdf))
+- **La piedra negra** (Robert E. Howard) ([PDF](20.%20La%20piedra%20negra.pdf))
+- **El rey de amarillo** (Robert W. Chambers) ([PDF](21.%20El%20rey%20de%20amarillo.pdf))
+- **El horror que nos acecha** (Robert Bloch) ([PDF](22.%20El%20horror%20que%20nos%20acecha.pdf))
+
+A continuación se muestran estos relatos clasificados por extensión y con una breve sinopsis.
+
+### Relatos cortos
 
 - **Dagón** — *4 páginas, ~2000 palabras*. Un náufrago a la deriva en el Pacífico descubre una isla emergida del fondo del océano, donde encuentra un monolito cubierto de jeroglíficos que sugieren la existencia de criaturas abisales de proporciones inimaginables. ([PDF](1.%20Dago%CC%81n.pdf))
 - **El modelo de Pickman** — *6 páginas, ~4500 palabras*. Un pintor de Boston tiene un talento perturbador para retratar escenas de horror grotesco con un realismo imposible, y la fuente de su inspiración resulta ser más literal de lo que nadie podría imaginar. ([PDF](3.%20El%20modelo%20de%20Pickman.pdf))
 - **El Ceremonial** — *11 páginas, ~4000 palabras*. Un hombre viaja a la antigua ciudad costera de Kingsport para participar en un rito ancestral al que su linaje le obliga, y se adentra en catacumbas donde se practica un ceremonial que nada tiene de humano. ([PDF](10.%20El%20Ceremonial.pdf))
 - **El vampiro estelar** (Robert Bloch) — *9 páginas, ~4000 palabras*. Un escritor de relatos fantásticos adquiere un ejemplar del *De Vermis Mysteriis* y descubre un ritual para invocar a un ser invisible que se alimenta de sangre humana. ([PDF](17.%20El%20vampiro%20estelar.pdf))
 
-## Relatos medios
+### Relatos medios
 
 - **Las ratas en las paredes** — *13 páginas, ~8500 palabras*. Un americano restaura la mansión ancestral de su familia en Inglaterra y comienza a oír el sonido de ratas moviéndose tras los muros, lo que le conduce a descubrir un secreto atroz bajo los cimientos del edificio. ([PDF](2.%20Las%20ratas%20en%20las%20paredes.pdf))
 - **El color que cayó del cielo** — *25 páginas, ~12500 palabras*. Un meteorito cae en la granja de una familia de Nueva Inglaterra y comienza a alterar la tierra, las plantas, los animales y a las propias personas con un color imposible que no pertenece al espectro conocido. ([PDF](4.%20El%20color%20que%20cayo%CC%81%20del%20cielo.pdf))
@@ -22,12 +56,12 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
 - **Los perros de Tíndalos** (Frank Belknap Long) — *12 páginas, ~5500 palabras*. Un escritor experimenta con una droga que le permite percibir el tiempo como una dimensión espacial, pero su viaje mental atrae la atención de entidades que habitan en los ángulos de la realidad. ([PDF](18.%20Los%20perros%20de%20Ti%CC%81ndalos.pdf))
 - **La piedra negra** (Robert E. Howard) — *19 páginas, ~7500 palabras*. Un viajero busca un monolito de obsidiana en una remota aldea de Hungría, mencionado en el *Unaussprechlichen Kulten* de von Junzt, y presencia en sueños el horror de los ritos que antaño se celebraron ante la piedra. ([PDF](20.%20La%20piedra%20negra.pdf))
 
-## Relatos largos
+### Relatos largos
 
 - **Los sueños en la casa de la bruja** — *39 páginas, ~16500 palabras*. Un estudiante de matemáticas se aloja en la habitación que ocupó la bruja Keziah Mason en el Arkham del siglo XVII, y sus estudios sobre geometría no euclidiana comienzan a abrir puertas entre dimensiones. ([PDF](13.%20Los%20suen%CC%83os%20en%20la%20casa%20de%20la%20bruja.pdf))
 - **El Wendigo** (Algernon Blackwood) — *46 páginas, ~18500 palabras*. Una partida de caza en los bosques boreales de Canadá se ve perturbada cuando uno de los guías desaparece durante la noche, arrastrado por algo que se mueve entre los árboles a una velocidad imposible y deja tras de sí un olor dulzón e inquietante. ([PDF](19.%20El%20Wendigo.pdf))
 
-## Novelas cortas
+### Novelas cortas
 
 - **La sombra sobre Innsmouth** — *49 páginas, ~28000 palabras*. Un joven viajero se detiene en el puerto decadente de Innsmouth, donde los habitantes tienen un aspecto extrañamente ictiológico y un pacto ancestral con criaturas que habitan bajo el arrecife del Diablo. ([PDF](6.%20La%20sombra%20sobre%20Innsmouth.pdf))
 - **El Horror de Dunwich** — *24 páginas, ~21500 palabras*. En el pueblo decadente de Dunwich, una familia degenerada cría en secreto a un ser cuyo crecimiento antinatural y su hambre insaciable de conocimiento prohibido presagian una catástrofe que amenaza con abrir las puertas entre los mundos. ([PDF](8.%20El%20Horror%20de%20Dunwich.pdf))
@@ -37,14 +71,15 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
 - **El caso de Charles Dexter Ward** — *~53000 palabras*. Un joven anticuario de Providence se obsesiona con su antepasado del siglo XVIII, Joseph Curwen, un alquimista sospechoso de nigromancia, y sus investigaciones le conducen a intentar repetir los experimentos de su ancestro con consecuencias devastadoras. ([EPUB](16.%20El%20caso%20de%20Charles%20Dexter%20Ward.epub))
 - **El horror que nos acecha** (Robert Bloch) — *116 páginas, ~63000 palabras*. Ambientada en la región de Arkham, esta novela sigue las investigaciones sobre manifestaciones sobrenaturales vinculadas a los Mitos de Cthulhu, donde los protagonistas deben enfrentarse a fuerzas cósmicas que amenazan con irrumpir en la realidad. ([PDF](22.%20El%20horror%20que%20nos%20acecha.pdf))
 
-## Otros documentos
+### Otros documentos
 
 - **Algunas notas sobre algo que no existe** — *Autobiografía (4 páginas)*. Breve texto autobiográfico en el que Lovecraft reflexiona sobre sí mismo, sus intereses y su visión del mundo con su característica ironía y desapego. ([PDF](Algunas%20notas%20sobre%20algo%20que%20no%20existe%20%28Autobiografi%CC%81a%20H.P.%20Lovecraft%29.pdf))
 - **El horror sobrenatural en la literatura** — *Ensayo (97 páginas)*. Extenso ensayo en el que Lovecraft traza la historia del cuento de terror desde la antigüedad hasta su época, analizando a los maestros del género y exponiendo su filosofía sobre la literatura fantástica. ([PDF](El%20horror%20sobrenatural%20en%20la%20literatura.pdf))
 
 ## Compendios
 
-- **El rey de amarillo** (Robert W. Chambers) — *Compendio de relatos (109 páginas, ~79500 palabras)*. Colección de relatos conectados por una obra de teatro ficticia, *El Rey de Amarillo*, cuya lectura provoca locura y desesperación en quienes se atreven a leer el segundo acto. (**[PDF](21.%20El%20rey%20de%20amarillo.pdf)**)
+**El rey de amarillo** (Robert W. Chambers) — *Compendio de relatos (109 páginas, ~79500 palabras)*. Colección de relatos conectados por una obra de teatro ficticia, *El Rey de Amarillo*, cuya lectura provoca locura y desesperación en quienes se atreven a leer el segundo acto. (**[PDF](21.%20El%20rey%20de%20amarillo.pdf)**)
+
   - **El Signo Amarillo** — *Relato medio (9 páginas, ~7000 palabras, pág. 3)*. Un artista y su modelo descubren que un vigilante nocturno de aspecto cadavérico guarda una conexión ominosa con el símbolo del Rey de Amarillo.
   - **El reparador de reputaciones** — *Relato medio (16 páginas, ~12500 palabras, pág. 12)*. En un Nueva York alternativo, un joven perturbado por la lectura de *El Rey de Amarillo* se convierte en peón de un siniestro anciano que dice poseer el poder de restaurar o destruir reputaciones.
   - **La Demoiselle d'Ys** — *Relato medio (8 páginas, ~5500 palabras, pág. 28)*. Un cazador americano se pierde en los páramos de Bretaña y encuentra a una joven noble que parece vivir en otra época.
@@ -55,7 +90,8 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
   - **El mensajero** — *Relato medio (18 páginas, ~12500 palabras, pág. 83)*. Un joven americano en la Bretaña francesa se enamora de una mujer local mientras una serie de sucesos misteriosos le acechan, mediados por un extraño mensajero.
   - **La Llave del Dolor** — *Relato medio (9 páginas, ~6000 palabras, pág. 101)*. Un joven en Bretaña se debate entre el amor y la pérdida mientras busca respuestas en un paisaje impregnado de melancolía y misterio.
 
-- **H.P. Lovecraft y otros - Los mitos de Cthulhu** — *Compendio de relatos*. Antología esencial que reúne los relatos fundacionales de los Mitos de Cthulhu, desde sus precursores hasta los continuadores póstumos, con prólogo de Rafael Llopis. (**[PDF](H.P.%20Lovecraft%20y%20otros%20-%20Los%20mitos%20de%20Cthulhu.pdf)**, páginas pequeñas e-reader)
+**H.P. Lovecraft y otros - Los mitos de Cthulhu** — Antología esencial que reúne los relatos fundacionales de los Mitos de Cthulhu, desde sus precursores hasta los continuadores póstumos, con prólogo de Rafael Llopis. (**[PDF](H.P.%20Lovecraft%20y%20otros%20-%20Los%20mitos%20de%20Cthulhu.pdf)**, páginas pequeñas e-reader)
+
   - **Prólogo: Los Mitos de Cthulhu** (Rafael Llopis) — *Ensayo (106 páginas, ~15500 palabras, pág. 5)*. Estudio crítico sobre los orígenes, la evolución y el significado de los Mitos de Cthulhu en la literatura fantástica.
   - **Días de Ocio en el Yann** (Lord Dunsany) — *Relato medio (42 páginas, ~6500 palabras, pág. 111)*. Un viajero navega por el río Yann a través de ciudades fantásticas, cada una con sus propias maravillas y horrores, en un mundo de ensueño que precede el universo onírico de Lovecraft.
   - **Un Habitante de Carcosa** (Ambrose Bierce) — *Relato breve (12 páginas, ~1500 palabras, pág. 153)*. Un hombre vaga por un páramo desolado sin recordar cómo llegó allí, hasta comprender que se encuentra entre las ruinas de la antigua Carcosa.
@@ -79,17 +115,20 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
   - **La iglesia de High Street** (J. Ramsey Campbell) — *Relato medio (42 páginas, ~6000 palabras, pág. 1385)*. Un joven investiga una iglesia abandonada en una ciudad industrial inglesa y descubre conexiones con los cultos descritos por Lovecraft.
   - **Con la técnica de Lovecraft** (Joan Perucho) — *Relato breve (10 páginas, ~1500 palabras, pág. 1427)*. Breve homenaje literario que emplea las convenciones narrativas lovecraftianas para evocar un horror cósmico en un escenario mediterráneo.
 
-- **Otros relatos** — *Compendio de relatos*. Extensa recopilación de relatos de H.P. Lovecraft y colaboraciones con otros autores. (**[PDF](Otros%20relatos.pdf)**)
-  #### Poemas
+**Otros relatos** — Extensa recopilación de relatos de H.P. Lovecraft y colaboraciones con otros autores. (**[PDF](Otros%20relatos.pdf)**)
+
+#### Poemas
   - **Astrophobos** — *Poema (1 página, pág. 28)*. Poema sobre los cielos nocturnos, la belleza seductora de las estrellas y la visión perturbadora que se oculta tras su resplandor.
   - **Hongos de Yuggoth** — *Poemas (2 páginas, ~500 palabras, págs. 759-760)*. Selección de sonetos de horror cósmico en los que Lovecraft evoca paisajes y entidades de su universo narrativo en forma poética.
-  #### Relatos breves
+
+#### Relatos breves
   - **Los Gatos de Ulthar** — *Relato breve (2 páginas, ~1500 palabras, pág. 967)*. En el pueblo de Ulthar, una pareja de ancianos siniestros tiene la costumbre de matar a los gatos de los vecinos, hasta que una caravana de viajeros trae consigo a un niño huérfano cuya plegaria desata una venganza insólita.
   - **El Terrible Anciano** — *Relato breve (4 páginas, ~1500 palabras, pág. 381)*. Tres ladrones planean robar a un anciano solitario de aspecto frágil que vive en una vieja casa junto al mar, sin sospechar la naturaleza de las extrañas botellas con las que el viejo conversa.
   - **Polaris** — *Relato breve (3 páginas, ~1500 palabras, pág. 1009)*. Un hombre contempla cada noche la estrella Polar desde su ventana y comienza a soñar con una ciudad antigua cuyo destino parece depender de él.
   - **El Árbol de la Colina** — *Relato breve (3 páginas, ~1500 palabras, pág. 50)*. Un hombre descubre que un árbol solitario en una colina cercana ejerce una influencia extraña sobre quienes se acercan demasiado.
   - **El Árbol de la Colina** (Duane W. Rimel) — *Relato breve (4 páginas, ~1500 palabras, pág. 1195)*. Dos amigos investigan un árbol en una colina aislada cuya contemplación provoca visiones perturbadoras de paisajes imposibles.
-  #### Relatos cortos
+
+#### Relatos cortos
   - **Dagón** — *Relato corto (3 páginas, ~2000 palabras, pág. 32)*. Un náufrago a la deriva en el Pacífico descubre una isla emergida del fondo del océano, con un monolito cubierto de jeroglíficos que revelan la existencia de criaturas abisales.
   - **El Árbol** — *Relato corto (5 páginas, ~2000 palabras, pág. 53)*. En la Arcadia clásica, dos escultores rivales compiten por un encargo, y la muerte de uno de ellos da lugar a un olivo cuyo crecimiento parece guardar un propósito siniestro.
   - **El Clérigo Malvado** — *Relato corto (5 páginas, ~2000 palabras, pág. 122)*. Un visitante acude a una vieja casa donde vivió un clérigo cuyas investigaciones sobre mundos más allá de la percepción humana le condujeron a un destino atroz.
@@ -125,7 +164,8 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
   - **La Tumba** — *Relato corto (12 páginas, ~4500 palabras, pág. 918)*. Un joven solitario se siente irresistiblemente atraído por un sepulcro abandonado en el bosque cercano a su casa, y su obsesión por penetrar en él transforma por completo su personalidad.
   - **Más Allá del Muro del Sueño** — *Relato corto (13 páginas, ~4500 palabras, pág. 991)*. Un interno de un psiquiátrico rural recibe a un paciente montañés cuyos episodios de delirio parecen coincidir con fenómenos cósmicos que sugieren una consciencia atrapada en un cuerpo inadecuado.
   - **Sordo, Mudo y Ciego** (C.M. Eddy Jr) — *Relato corto (13 páginas, ~5000 palabras, pág. 1182)*. Un hombre privado de vista, oído y habla es hallado en circunstancias misteriosas, y el manuscrito que dejó revela el horror que experimentó al quedar atrapado en una oscuridad poblada de presencias.
-  #### Relatos medios
+
+#### Relatos medios
   - **La Ciudad Sin Nombre** — *Relato medio (6 páginas, ~5500 palabras, pág. 787)*. Un explorador descubre en el desierto de Arabia las ruinas de una ciudad anterior a toda civilización conocida y desciende por sus pasadizos hasta hallar los vestigios de sus habitantes.
   - **El Templo** — *Relato medio (16 páginas, ~5500 palabras, pág. 365)*. El comandante de un submarino alemán durante la Primera Guerra Mundial relata en un manuscrito cómo su nave quedó a la deriva en el fondo del Atlántico, cerca de las ruinas de un templo sumergido.
   - **La Llave de Plata** — *Relato medio (6 páginas, ~5500 palabras, pág. 826)*. Randolph Carter, habiendo perdido la capacidad de soñar, busca una llave mágica que le permita volver a cruzar la puerta de los sueños y recuperar las maravillas que conoció en su juventud.
@@ -149,10 +189,12 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
   - **El Color Surgido del Espacio** — *Relato medio (13 páginas, ~12500 palabras, pág. 127)*. Un meteorito cae en una granja de Nueva Inglaterra y comienza a alterar la tierra, las plantas y a las propias personas con un color imposible que no pertenece al espectro conocido.
   - **La Habitación Cerrada** (August Derleth) — *Relato medio (16 páginas, ~13000 palabras, pág. 1054)*. En la región de Dunwich, una casa rural guarda una habitación que ha permanecido sellada durante décadas, y los manuscritos de su propietario revelan la razón de tan extrema precaución.
   - **La Llamada de Cthulhu** — *Relato medio (15 páginas, ~14000 palabras, pág. 811)*. Tras la muerte de su tío-abuelo, un joven descubre una investigación que conecta sueños colectivos, un culto secreto y una entidad cósmica dormida en el fondo del Pacífico.
-  #### Relatos largos
+
+#### Relatos largos
   - **Los Sueños de la Casa de la Bruja** — *Relato largo (17 páginas, ~16000 palabras, pág. 974)*. Un estudiante de matemáticas se aloja en la habitación de una bruja del siglo XVII y sus estudios de geometría no euclidiana comienzan a abrir puertas entre dimensiones.
   - **A Través de las Puertas de la Llave de Plata** (E. Hoffman Price) — *Relato largo (37 páginas, ~16500 palabras, pág. 1199)*. Los albaceas de Randolph Carter se reúnen para decidir sobre su herencia, mientras un misterioso hombre enmascarado relata el viaje cósmico que Carter emprendió a través de las puertas del sueño.
-  #### Novelas cortas
+
+#### Novelas cortas
   - **El Horror de Dunwich** — *Novela corta (23 páginas, ~21500 palabras, pág. 156)*. En el pueblo decadente de Dunwich, una familia degenerada cría en secreto a un ser cuyo crecimiento antinatural presagia una catástrofe cósmica.
   - **La Sombra sobre Innsmouth** — *Novela corta (74 páginas, ~28500 palabras, pág. 844)*. Un joven viajero se detiene en el puerto decadente de Innsmouth, donde los habitantes tienen un aspecto extrañamente ictiológico y mantienen un pacto ancestral con criaturas marinas.
   - **En la Noche de los Tiempos** — *Novela corta (80 páginas, ~28000 palabras, pág. 489)*. Un profesor australiano descubre que durante cinco años de amnesia su mente fue intercambiada con la de un ser que vivió cientos de millones de años antes que la humanidad.
@@ -160,7 +202,8 @@ Relatos de [H.P. Lovecraft](https://www.hplovecraft.com/) y otros autores del c�
   - **En las Montañas de la Locura** — *Novela corta (157 páginas, ~48000 palabras, pág. 569)*. Una expedición científica a la Antártida descubre una cadena montañosa imposible y los restos de una ciudad ciclópea construida por seres que llegaron a la Tierra antes de que existiera vida compleja.
   - **En Busca de la Ciudad del Sol Poniente** — *Novela corta (83 páginas, ~48500 palabras, pág. 399)*. Randolph Carter emprende un viaje épico a través de las Tierras del Sueño en busca de una ciudad maravillosa que ha vislumbrado en sus sueños, enfrentándose a peligros sobrenaturales y criaturas de pesadilla.
   - **El Caso de Charles Dexter Ward** — *Novela corta (59 páginas, ~53000 palabras, pág. 58)*. Un joven anticuario de Providence se obsesiona con su antepasado del siglo XVIII, un alquimista sospechoso de nigromancia, y sus investigaciones le conducen a repetir los experimentos de su ancestro.
-  #### Otros documentos
+
+#### Otros documentos
   - **Algunas Notas sobre Algo que no Existe** — *Autobiografía (5 páginas, ~2500 palabras, pág. 12)*. Breve texto autobiográfico en el que Lovecraft reflexiona sobre sí mismo, sus intereses y su visión del mundo con su característica ironía.
   - **Bibliografía** — *Documento (3 páginas, ~1000 palabras, pág. 29)*. Breve semblanza biográfica de Lovecraft y listado de sus obras principales.
   - **La Historia del Necronomicón** — *Documento (4 páginas, ~1000 palabras, pág. 807)*. Lovecraft traza la historia ficticia del *Necronomicón*, desde su composición por el árabe loco Abdul Alhazred hasta sus diversas traducciones y los intentos de suprimirlo.
@@ -239,10 +282,10 @@ Se incluyen obras escritas íntegramente por Lovecraft y colaboraciones con otro
 Fuentes:
 - [**_Lovecraft’s Fiction (Chronological Order)_**](https://www.hplovecraft.com/writings/fiction/chrono.aspx)
 - [_Lovecraft’s Fiction (Publication Order)_](https://www.hplovecraft.com/writings/fiction/publish.aspx)
-- [_Otros relatos.pdf_](Otros%20relatos.pdf), págs. 29-31
+- [_Otros relatos.pdf_](Otros%20relatos.pdf), Bibliografía págs. 29-31
 
 ## Nuevos relatos (IA)
 
-Relatos cortos originales escritos con inteligencia artificial, al estilo de [H.P. Lovecraft](https://www.hplovecraft.com/).
+Relatos originales escritos con inteligencia artificial, al estilo de [H.P. Lovecraft](https://www.hplovecraft.com/).
 
 **[Otros relatos (IA)](../AI/)**

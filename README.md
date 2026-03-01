@@ -1,22 +1,20 @@
-# Lovecraft
+## [Clásicos](Cla%CC%81sicos/)
 
-Relatos de horror cósmico clásicos y actuales. Relatos originales generados con inteligencia artificial, manteniendo el estilo y formato de H.P. Lovecraft y el círculo de los Mitos de Cthulhu.
+La página [Clásicos](Cla%CC%81sicos/) contiene relatos originales de [H.P. Lovecraft](https://www.hplovecraft.com/) para leer y descargar en español.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2VFGD)
+Los relatos están ordenados por recomendación de lectura, por extensión, y también por cronología, con todos sus relatos.
 
-## Clásicos
+## [Vocabulario Lovecraftiano](Vocabulario%20Lovecraftiano.pdf)
 
-La carpeta [Clásicos](Cla%CC%81sicos/) contiene relatos originales de [H.P. Lovecraft](https://www.hplovecraft.com/) para leer y descargar en español, sin copyright.
+Compendio de términos, entidades, lugares y conceptos del universo de los Mitos de Cthulhu. ([PDF](Vocabulario%20Lovecraftiano.pdf))
 
-## Vocabulario Lovecraftiano
+1. Adjetivos, sustantivos, verbos, fobias, arquitectura y expresiones de ambientación lovecraftiana para rol o escritura de relatos.
+2. Términos de los Mitos de Cthulhu, con breves explicaciones de su clasificación de dioses, primigenios, otras criaturas, lugares geográficos, tomos y artefactos.
+3. Apéndice de H.P. Lovecraft sobre la literatura de terror, con énfasis en el miedo a lo desconocido, y notas sobre el arte de escribir cuentos fantásticos y sus ideas de escritura.
 
-Compendio de términos, entidades, lugares y conceptos del universo de los Mitos de Cthulhu.
+## [Relatos originales (IA)](AI/)
 
-[Vocabulario Lovecraftiano.pdf](Vocabulario%20Lovecraftiano.pdf)
-
-## Relatos originales (IA)
-
-Relatos cortos originales escritos con inteligencia artificial, al estilo de H.P. Lovecraft, ambientados en su universo narrativo con referencias a sus cuentos clásicos.
+Relatos originales escritos con inteligencia artificial, manteniendo el estilo de H.P. Lovecraft, ambientados en su universo narrativo con referencias a sus cuentos [clásicos](Cla%CC%81sicos/).
 
 Cada relato se crea siguiendo el método de escritura que el propio Lovecraft describe en las [notas sobre el arte de escribir cuentos fantásticos](https://www.hplovecraft.com/writings/texts/essays/nwwf.aspx) de su ensayo [El horror sobrenatural en la literatura](Cla%CC%81sicos/El%20horror%20sobrenatural%20en%20la%20literatura.pdf).
 

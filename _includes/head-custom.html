@@ -1,0 +1,86 @@
+<link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+
+{% if page.url == "/" %}
+<script>document.title = '{{ site.title }}';</script>
+{% endif %}
+
+<style>
+  #project_title a { color: inherit; text-decoration: none; }
+  #project_title a:hover { text-decoration: none; }
+
+  .kofi-row {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding-bottom: 0.75rem;
+  }
+  .kofi-text { font-size: 1.05em; margin: 0; }
+  img.kofi-img {
+      display: initial !important;
+      vertical-align: middle;
+      height: 15px !important;
+      width: 22px !important;
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+      background: none !important;
+      margin-top: 0;
+      margin-right: 5px !important;
+      margin-left: 0 !important;
+      margin-bottom: 3px !important;
+      animation: kofi-wiggle 3s infinite;
+  }
+  .kofi-btn-container {
+      display: inline-block !important;
+      white-space: nowrap;
+      min-width: 160px;
+  }
+  span.kofi-btn-text {
+      color: #fff !important;
+      letter-spacing: -0.15px !important;
+      vertical-align: middle;
+      line-height: 33px !important;
+      padding: 0;
+      text-align: center;
+      text-decoration: none !important;
+      text-shadow: 0 1px 1px rgba(34, 34, 34, 0.05);
+  }
+  .kofi-btn-text a { color: #fff !important; text-decoration: none !important; }
+  .kofi-btn-text a:hover { color: #fff !important; text-decoration: none; }
+  a.kofi-btn {
+      box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+      line-height: 36px !important;
+      min-width: 150px;
+      display: inline-block !important;
+      background-color: #29abe0;
+      padding: 2px 12px !important;
+      text-align: center !important;
+      border-radius: 7px;
+      color: #fff;
+      cursor: pointer;
+      overflow-wrap: break-word;
+      vertical-align: middle;
+      border: 0 none #fff !important;
+      font-family: 'Quicksand', Helvetica, Century Gothic, sans-serif !important;
+      text-decoration: none;
+      text-shadow: none;
+      font-weight: 700 !important;
+      font-size: 14px !important;
+  }
+  a.kofi-btn:visited { color: #fff !important; text-decoration: none !important; }
+  a.kofi-btn:hover { opacity: .85; color: #f5f5f5 !important; text-decoration: none !important; }
+  a.kofi-btn:active { color: #f5f5f5 !important; text-decoration: none !important; }
+  @keyframes kofi-wiggle {
+      0% { transform: rotate(0) scale(1) }
+      60% { transform: rotate(0) scale(1) }
+      75% { transform: rotate(0) scale(1.12) }
+      80% { transform: rotate(0) scale(1.1) }
+      84% { transform: rotate(-10deg) scale(1.1) }
+      88% { transform: rotate(10deg) scale(1.1) }
+      92% { transform: rotate(-10deg) scale(1.1) }
+      96% { transform: rotate(10deg) scale(1.1) }
+      100% { transform: rotate(0) scale(1) }
+  }
+</style>

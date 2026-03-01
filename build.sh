@@ -148,25 +148,55 @@ html_template() {
     .markdown-body em {
       font-style: italic;
     }
-    .back-link {
-      display: inline-block;
-      margin-bottom: 1.5rem;
-      font-size: 0.85em;
+    .ui-text {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 1.25rem;
+      font-size: 0.85em;
+    }
+    .donate-container {
+      margin-top: 3rem;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .donate-text {
+      font-size: 0.85em;
+      text-align: center;
+    }
+    p.donate-text {
+      color: #737373;
+    }
+    .donate-container a {
+      color: #333333;
+    }
+    p.donate-text {
+      margin-bottom: 0.5rem;
+    }
     @media (prefers-color-scheme: dark) {
-      .markdown-body {
+      .markdown-body, .markdown-body p {
         color: #d4d4d4;
       }
-      .markdown-body p {
+      p.donate-text {
         color: #d4d4d4;
+      }
+      .donate-container a {
+        color: white;
       }
     }
   </style>
 </head>
 <body class="markdown-body">
-<a class="back-link" href="../">← Otros relatos</a>
-${body}
+  <a class="back-link ui-text" href="../">← Otros relatos</a>
+  ${body}
+  <div class="donate-container">
+    <p class="donate-text ui-text">¿Te ha gustado este relato? <a href='https://ko-fi.com/C0C2VFGD' target='_blank'>Muestra tu apoyo en Ko-fi</a></p>
+    <a href='https://ko-fi.com/C0C2VFGD' target='_blank'><img height='128' style='border:0px;' src='https://storage.ko-fi.com/cdn/useruploads/C0C2VFGD/qrcode.png?v=85ae3882-dccd-473c-9c9d-91298102d636?v=2' border='0' alt='Muestra tu apoyo en Ko-fi' /></a>
+  </div>
 </body>
 </html>
 HTMLEOF
