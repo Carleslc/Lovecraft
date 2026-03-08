@@ -4,7 +4,8 @@ lang: es
 title: Lovecraft
 description: Relatos de horror cósmico clásicos y actuales.
 
-url: https://carleslc.me/Lovecraft/
+url: https://carleslc.me
+baseurl: /Lovecraft
 
 author:
   name: Carleslc

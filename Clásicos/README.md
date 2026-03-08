@@ -279,7 +279,7 @@ Cronología de las obras de ficción de [H.P. Lovecraft](https://www.hplovecraft
 
 Se incluyen obras escritas íntegramente por Lovecraft y colaboraciones con otros autores en las que Lovecraft participó directamente.
 
-Fuentes:
+_Fuentes:_
 - [**_Lovecraft’s Fiction (Chronological Order)_**](https://www.hplovecraft.com/writings/fiction/chrono.aspx)
 - [_Lovecraft’s Fiction (Publication Order)_](https://www.hplovecraft.com/writings/fiction/publish.aspx)
 - [_Otros relatos.pdf_](Otros%20relatos.pdf), Bibliografía págs. 29-31

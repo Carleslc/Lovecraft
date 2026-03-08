@@ -36,7 +36,7 @@ Cada relato se crea siguiendo el método de escritura que el propio Lovecraft de
 
 ## Generar nuevos relatos
 
-Si quieres generar tus propios relatos, puedes utilizar el [prompt.txt](prompt.txt) de ejemplo.
+Si quieres generar tus propios relatos, puedes utilizar el [prompt](prompt.txt) de ejemplo.
 
 El proceso consiste en partir de los [Clásicos](Cla%CC%81sicos/) y el [Vocabulario Lovecraftiano](Vocabulario%20Lovecraftiano.pdf) como contexto de referencia, y a partir de ahí desarrollar propuestas originales con sinopsis cronológica, sinopsis narrativa y escritura del relato final.
 

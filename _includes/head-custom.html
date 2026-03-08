@@ -1,7 +1,14 @@
 <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
 
 {% if page.url == "/" %}
-<script>document.title = '{{ site.title }}';</script>
+<script>
+document.title = '{{ site.title }}';
+
+['og:title', 'twitter:title'].forEach(p => {
+  const meta = document.querySelectorAll(`meta[property="${p}"]`);
+  meta[meta.length - 1].remove();
+});
+</script>
 {% endif %}
 
 <style>
